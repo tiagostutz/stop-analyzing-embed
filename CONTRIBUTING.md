@@ -78,3 +78,4 @@ $ git merge upstream/master
 ## GitHub Actions
 
 1. File Size Impact: checks whether te PR will introduce an abnormal file size to the built bundle of the project
+  - this only works with PR between branches of the main repo.
