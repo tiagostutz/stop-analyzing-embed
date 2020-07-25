@@ -79,4 +79,4 @@ $ git merge upstream/master
 
 When you submit a PR, there will be those automated validations:
 
-- Check the generated bundle size
+- Check the generated bundle size using https://github.com/jsenv/jsenv-file-size-impact
